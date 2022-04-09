@@ -2,6 +2,8 @@
 
 Simple application that allows you to monitor currency courses
 
+![Screenshot_1649509625](https://user-images.githubusercontent.com/43937728/162575492-5f3199f0-a8d8-439c-99e2-a11d83f58954.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
