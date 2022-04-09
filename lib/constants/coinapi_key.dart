@@ -1,0 +1,1 @@
+const coinapiKey = 'DE13D64B-2601-47FA-9C5C-778F30FEDC2D';
