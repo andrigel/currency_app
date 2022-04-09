@@ -1,6 +1,6 @@
 # currency_app
 
-A new Flutter project.
+Simple application that allows you to monitor currency courses
 
 ## Getting Started
 
